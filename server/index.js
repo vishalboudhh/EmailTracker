@@ -16,7 +16,6 @@ connectDB();
    ✅ CORS CONFIG (VERCEL SAFE)
 ================================ */
 const allowedOrigins = [
-  "http://localhost:5173",
   "https://email-tracker-gh0o1n440-vishalboudhhs-projects.vercel.app",
 ];
 
