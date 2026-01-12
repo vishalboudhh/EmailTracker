@@ -20,7 +20,7 @@ const allowedOrigins = [
   // Allow Vercel preview and production deployments
   /^https:\/\/.*\.vercel\.app$/,
   // Add your specific Vercel URL if needed
-  'https://emailteacker-9j7yhy49u-vishalboudhhs-projects.vercel.app'
+  'https://email-tracker-gh0o1n440-vishalboudhhs-projects.vercel.app'
 ].filter(Boolean); // Remove undefined values
 
 app.use(cors({
